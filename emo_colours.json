@@ -1,0 +1,47 @@
+{
+  "Love and Relationships": {
+    "emotion": "love",
+    "color": "really light blue",
+    "hex": "#d4ffff"
+  },
+  "Nature and the Envrionment": {
+    "emotion": "neutral",
+    "color": "strong blue",
+    "hex": "#0c06f7"
+  },
+  "Loss and Grief": {
+    "emotion": "neutral",
+    "color": "strong blue",
+    "hex": "#0c06f7"
+  },
+  "Resilience and Strength": {
+    "emotion": "neutral",
+    "color": "strong blue",
+    "hex": "#0c06f7"
+  },
+  "Hope and Optimism": {
+    "emotion": "optimism",
+    "color": "liliac",
+    "hex": "#c48efd"
+  },
+  "Joy and Celebration": {
+    "emotion": "joy",
+    "color": "blue with a hint of purple",
+    "hex": "#533cc6"
+  },
+  "Beauty and Aesthetics": {
+    "emotion": "neutral",
+    "color": "strong blue",
+    "hex": "#0c06f7"
+  },
+  "Time and Transience": {
+    "emotion": "neutral",
+    "color": "strong blue",
+    "hex": "#0c06f7"
+  },
+  "Spirituality and Wonder": {
+    "emotion": "excitement",
+    "color": "blue with a hint of purple",
+    "hex": "#533cc6"
+  }
+}

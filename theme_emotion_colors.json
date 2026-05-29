@@ -1,0 +1,92 @@
+[
+  {
+    "theme": "Love and Relationships",
+    "emotion": "love",
+    "color_name": "really light blue",
+    "rgb": [
+      212,
+      255,
+      255
+    ]
+  },
+  {
+    "theme": "Nature and the Envrionment",
+    "emotion": "neutral",
+    "color_name": "strong blue",
+    "rgb": [
+      12,
+      6,
+      247
+    ]
+  },
+  {
+    "theme": "Loss and Grief",
+    "emotion": "neutral",
+    "color_name": "strong blue",
+    "rgb": [
+      12,
+      6,
+      247
+    ]
+  },
+  {
+    "theme": "Resilience and Strength",
+    "emotion": "neutral",
+    "color_name": "strong blue",
+    "rgb": [
+      12,
+      6,
+      247
+    ]
+  },
+  {
+    "theme": "Hope and Optimism",
+    "emotion": "optimism",
+    "color_name": "liliac",
+    "rgb": [
+      196,
+      142,
+      253
+    ]
+  },
+  {
+    "theme": "Joy and Celebration",
+    "emotion": "joy",
+    "color_name": "blue with a hint of purple",
+    "rgb": [
+      83,
+      60,
+      198
+    ]
+  },
+  {
+    "theme": "Beauty and Aesthetics",
+    "emotion": "neutral",
+    "color_name": "strong blue",
+    "rgb": [
+      12,
+      6,
+      247
+    ]
+  },
+  {
+    "theme": "Time and Transience",
+    "emotion": "neutral",
+    "color_name": "strong blue",
+    "rgb": [
+      12,
+      6,
+      247
+    ]
+  },
+  {
+    "theme": "Spirituality and Wonder",
+    "emotion": "excitement",
+    "color_name": "blue with a hint of purple",
+    "rgb": [
+      83,
+      60,
+      198
+    ]
+  }
+]
